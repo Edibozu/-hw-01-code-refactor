@@ -8,6 +8,8 @@ body {
   background-color: #d9dcd6;
 }
 
+/*Name of the company, in 2 colors*/
+
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -24,6 +26,7 @@ h1 {
 h1 .seo {
   color: #d9dcd6;
 }
+/*the navigation bar, floating off to the right*/
 
 nav {
   padding-top: 15px;
@@ -50,6 +53,7 @@ a {
 p {
   font-size: 16px;
 }
+/*image of healthy working environment*/
 
 .hero {
   height: 800px;
@@ -69,6 +73,7 @@ p {
   float: right;
   margin-left: 25px;
 }
+/*the main content of the page, formatter to stick out and off the the left*/
 
 .content {
   width: 75%;
@@ -134,6 +139,7 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
+/*the less important information, floating to the left of the page*/
 
 .search-engine-optimization {
   margin-bottom: 20px;
@@ -188,6 +194,8 @@ p {
   margin-bottom: 20px;
   font-size: 36px;
 }
+
+/*the footer of the page, centered*/
 
 .footer {
   padding: 30px;
